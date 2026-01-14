@@ -3,7 +3,7 @@ const places = [
       name: "Zhangjiajie, China",
       coords: [29.23, 110.42],
       description: "Dubbed the “Avatar Mountains” for their role in inspiring Avatar, Zhangjiajie is a forested city of sandstone pillar buildings more than a park. Rising from mist-shrouded valleys, thousands of narrow, vertical peaks grow like skyscrapers, with rock faces covered by intermittent trees. Despite feeling otherworldly, Zhangjiajie is only a short bullet train ride away from Chinese metropolises like Chongqing. Despite this, the park is big enough to feel emptier than some of China’s other top natural attractions. The variety of hiking trails and cable cars, along with the world’s tallest outdoor elevator, allow for easy access around the park. Once visitors have finished exploring the park, which can take multiple days, Tianmen Mountain is only around half an hour away. Tianmen, a natural sight in its own right, contains over four miles (6.5km) of cliffside walkways, a nearly 30-minute-long cable car, and Heaven’s Gate, a breathtaking natural arch at the top of a 999-step staircase. Whether between the pillars or on top of a see-through glass walkway, Zhangjiajie offers a landscape unlike anything else on the planet.<br><br>-BD82",
-      image: "images/Zhangjiajie.jpg"
+      image: "images/zhangjiajie.jpg"
     },
     { 
       name: "Ngorongoro Crater, Tanzania",
@@ -93,7 +93,7 @@ const places = [
       name: "The Mountains of Oman",
       coords: [23.240268861590632, 57.26144407294343],
       description: "Rising dramatically above Oman’s desert plains, the mountains of Oman offer a mix of hiking routes for those of all skill and fitness levels. Despite its beauty, the mountains are peacefully quiet- the few visitors are able to enjoy Oman’s cliffs, canyons, and vistas in solitude. Despite this, there is enough tourist infrastructure to make for an easy trip. Various spots, notably Jebel Shams, are very easily combined into a short trip from Muscat, with picturesque small towns along the way, like Al Hamra and Misfat al Abriyeen, providing nice breaks and cute hotels for overnight stops. A car is recommended, but the escape into the mountains is worth the hassle.<br><br>-Geospot",
-      image: "images/Oman.jpeg"
+      image: "images/Oman.JPEG"
     },
     { 
       name: "Huacachina, Peru",
